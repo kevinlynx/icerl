@@ -1,0 +1,22 @@
+
+## draft
+
+kl_tserver 
+    ==> connections 
+        ==> read/write data on the connection
+                    
+adapter ==> represents a server, objects collection
+object ==> invocations
+
+## modules
+
+* msg, encode/decode messages
+* object, methods collection
+* adapter, objects collection
+* adapterfac
+    * create adapters
+    * map connection to adapter
+* communicator
+* proxy
+
+
